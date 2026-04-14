@@ -1,6 +1,6 @@
-# Plugin HealWeapon
+# Plugin
 
-> Esse repositório contém uma extensão desenvolvida para o jogo Unturned. Apartir dela armas configuradas passam a curar os jogadores.
+> Esse repositório contém uma extensão desenvolvida para o jogo Unturned.
 
 ## ⚠️ Aviso
 
